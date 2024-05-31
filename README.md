@@ -18,4 +18,4 @@ Currently, the project consists of two main pages:
 - Basic Structure : 
   Includes only the essential pages to highlight the core design elements.
 
-##### This project is part of my journey into web development to master front-end design. 
+##### This project is a part of my journey into web development to master front-end design. 
